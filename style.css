@@ -1,0 +1,27 @@
+form {
+  /* Apenas para centralizar o form na página */
+  margin: 0 auto;
+  margin-top: 200px;
+  width: 400px;
+  line-height: 2.5;
+  /* Para ver as bordas do formulário */
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 1em;
+}
+
+button {
+  width: 150px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 10px;
+  color: white;
+  background-color: #0066A2;
+  justify-content: center;
+  margin-left: 125px;
+}
+
+#resultado {
+  font-size: 25px;
+  margin-left: 500px;
+}
