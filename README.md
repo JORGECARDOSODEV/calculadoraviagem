@@ -1,5 +1,6 @@
 # Calculadora de Viagem
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JORGECARDOSODEV/appvideo/blob/main/LICENSE) 
+
+### link para o projeto -> https://jorgecardosodev.github.io/calculadoraviagem/
 
 # Sobre 
 
