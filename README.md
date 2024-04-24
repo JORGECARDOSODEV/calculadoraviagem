@@ -11,7 +11,8 @@ Calculadora de custo de viagem informando:
 - Distância
 
 ## Telas web
-![Web 1](https://github.com/JORGECARDOSODEV/appvideo/blob/main/printappvideo.jpg)
+![Web 1](https://github.com/JORGECARDOSODEV/calculadoraviagem/blob/main/tela1.jpg)
+![Web 1](https://github.com/JORGECARDOSODEV/calculadoraviagem/blob/main/tela.png)
 
 # Recursos utilizadas
 - Javascript
